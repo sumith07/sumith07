@@ -1,6 +1,7 @@
 # Hi My name is Sumith
 # Salesforce Dev
-I am a Salesforce Developer with 2+ years of experience, proficient in leveraging the Salesforce platform to design, develop, and implement robust solutions that align with business requirements.<br>
+I am a Salesforce Developer with 2+ years of experience, proficient in leveraging the Salesforce platform to design, develop, and implement robust solutions that align with business requirements.
+                                                                                                                                                                                                
 
 # Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
