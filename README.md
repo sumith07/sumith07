@@ -1,28 +1,34 @@
-# Hi My name is Sumith
-# Salesforce Dev
-I am a Salesforce Developer with 2+ years of experience, proficient in leveraging the Salesforce platform to design, develop, and implement robust solutions that align with business requirements.
-<br>I am currently open to a new dev role.</br>
-                                                                                                                                                                                                
+<h2 align="left">Hi 👋! , My name is Sumith , I am a Java Developer.</h2>
 
-# Skills:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Apex](https://img.shields.io/badge/Apex-%23323330.svg?style=plastic&logo=Apex&logoColor=%23F7DF1E)
-![LWC](https://img.shields.io/badge/LWC-%23323330.svg?style=plastic&logo=LWC&logoColor=%23F7DF1E)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumith07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumith07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sumith-es-013) 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
+###
 
-# 📊 GitHub Stats:
+<br clear="both">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumith07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/sumith07/sumith07/output/snake.svg" alt="Snake animation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumith07&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sumith07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
