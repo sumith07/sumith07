@@ -1,7 +1,6 @@
 <h2 align="left">Hi, My name is Sumith , I am a .Net Developer.</h2>
 
 # 💻 Tech Stack:
-## 🚀 Tech Stack
 
 ### 🧑‍💻 Backend
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
