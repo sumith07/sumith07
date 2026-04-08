@@ -4,9 +4,6 @@
 ## 🚀 Tech Stack
 
 ### 🧑‍💻 Backend
-## 🚀 Tech Stack
-
-### 🧑‍💻 Backend
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web%20API-008080?style=for-the-badge&logo=api&logoColor=white)
