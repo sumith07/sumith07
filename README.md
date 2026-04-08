@@ -1,8 +1,23 @@
 <h2 align="left">Hi, My name is Sumith , I am a Java Developer.</h2>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 Tech Stack
 
+### 🧑‍💻 Backend
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-008080?style=for-the-badge&logo=api&logoColor=white)
+
+### 🗄️ Database & Caching
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚡ Messaging & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ###
 
 <div align="center">
