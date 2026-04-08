@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My name is Sumith , I am a Java Developer.</h2>
+<h2 align="left">Hi, My name is Sumith , I am a .net Developer.</h2>
 
 # 💻 Tech Stack:
 ## 🚀 Tech Stack
